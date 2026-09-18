@@ -4,3 +4,5 @@ x yazi
 
 
 
+/Users/wxh/.config/yazi
+
